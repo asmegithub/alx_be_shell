@@ -1,2 +1,2 @@
-This is a script that switches the current user to the user betty.
-
+This is a repository that contains different directories:
+shel_permission: this folder is to switch user to betty!
